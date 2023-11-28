@@ -8,3 +8,8 @@
 *comando git, pull
 
 *comando git, fetch
+
+
+*git log --oneline --decorate 
+
+# para saber onde vc esta na branch
